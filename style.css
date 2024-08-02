@@ -1,0 +1,107 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    border: solid;
+    width: 1120px;
+    background-color: #F5F4F0;
+    font-family: "Open Sans", sans-serif;
+    margin: 88px 80px;      
+}
+
+img {
+    border-radius: 28px;
+    width: 1120px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #333333;
+}
+
+
+
+#cabecalho h1 {
+    margin-bottom: 40px;
+    gap: 8px;
+    padding-bottom: 1px;
+    
+    
+}
+
+#headline {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #E1624F;
+    padding-bottom: 6px;
+
+    
+}
+
+#subtitle {
+    font-style: italic;
+    color: #333333;
+    padding-top: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+   
+}
+
+#intro {
+    margin: 64px auto 64px;
+}
+
+#intro h2 {
+   
+}
+
+#intro h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #E1624F
+
+
+}
+#intro p{
+   margin-bottom: 64px;
+}
+
+ol {
+    
+    font-size: 28px;
+    font-weight: bold;
+    box-sizing: border-box;
+    
+}
+
+#title {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#yong img {
+    padding-bottom: 20px;
+}
+
+
+footer img { 
+    width: 16px;
+    vertical-align: middle;
+}
