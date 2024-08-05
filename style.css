@@ -6,6 +6,7 @@
 
 
 body {
+    border: solid #D9D9D9;
     width: 1120px;
     background-color: #F5F4F0;
     font-family: "Open Sans", sans-serif;
