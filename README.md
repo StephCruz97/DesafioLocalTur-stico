@@ -1,7 +1,7 @@
 Projeto - Desafio: Local Turístico pela ROCKETSEAT 🚀! <br/>
 
 <p align="center">
-<img src="Cover.jpg" alt="Projeto DevLinks" width="100%">
+<img src="./assets/Cover.jpg" alt="Projeto DevLinks" width="100%">
 </p>
 Olá! Bem-vindo ao Desafio Local Turístico. Que bom ter você por aqui. Este projeto é uma "WEB Page" sobre Busan, na Coréia do Sul.
 
